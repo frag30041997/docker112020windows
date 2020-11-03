@@ -1,9 +1,9 @@
 pandas
-numpy
+numpy==1.16.4
 seaborn
 flask
 jupyter
-ipykernel
 tensorflow
-tensorFlow
+stop_words
+streamlit
 scikit-learn
