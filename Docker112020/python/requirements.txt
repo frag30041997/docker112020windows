@@ -7,3 +7,4 @@ tensorflow
 stop_words
 streamlit
 scikit-learn
+ipykernel
